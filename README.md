@@ -5,3 +5,4 @@
 #is no bug
 #master is .g
 gsgs
+#来自用户b
